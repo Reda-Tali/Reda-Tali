@@ -11,7 +11,8 @@
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
          alt="email"
          height="30"
-         width="40" />
+         width="40" /> ✉️
+    redatli1230@gmail.com
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
