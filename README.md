@@ -1,13 +1,5 @@
 <div align="center">
-
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=16C784&center=true&vCenter=true&width=620&height=52&lines=%24REDA+%2F+USD+%E2%96%B2+%2B12.4%25;trading+code+%26+capital.;how+money+moves." alt="$REDA" />
-</a>
-
-![Markets](https://img.shields.io/badge/MARKETS-OPEN-16C784?style=flat-square&labelColor=080d16)
-![Desk](https://img.shields.io/badge/DESK-FINTECH-d4af37?style=flat-square&labelColor=080d16)
-![Long](https://img.shields.io/badge/POSITION-LONG_CRYPTO-16C784?style=flat-square&labelColor=080d16)
-
+  <img src="banner.png" alt="$REDA — trading code & capital" width="100%" />
 </div>
 
 ---
@@ -54,13 +46,9 @@ I'm **Reda**, a fintech student obsessed with **how money moves**. I trade ideas
 
 ### `// EXECUTE` — open a line
 
-<div align="left">
-
 [![LinkedIn — BUY](https://img.shields.io/badge/BUY_·_LinkedIn-080d16?style=for-the-badge&logo=linkedin&logoColor=16C784&labelColor=080d16)](https://linkedin.com/in/YOUR_HANDLE)
 [![Website — HOLD](https://img.shields.io/badge/HOLD_·_Website-080d16?style=for-the-badge&logo=safari&logoColor=d4af37&labelColor=080d16)](https://YOUR_SITE.com)
 [![Email — SIGNAL](https://img.shields.io/badge/SIGNAL_·_Email-080d16?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=080d16)](mailto:YOUR_EMAIL@example.com)
-
-</div>
 
 <div align="center">
 <sub><code>reda@markets:~$</code> ALL SYSTEMS NOMINAL · BUILT WITH MARKETS IN MIND ◆</sub>
