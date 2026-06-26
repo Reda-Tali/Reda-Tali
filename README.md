@@ -44,9 +44,9 @@ I'm **Reda**, a fintech student obsessed with **how money moves**. I trade ideas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=16C784&icon_color=d4af37&text_color=c7d0e0&bg_color=080d16&rank_icon=percentile" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&title_color=16C784&text_color=c7d0e0&bg_color=080d16" alt="Allocation" />
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=080d16&ring=16C784&fire=d4af37&currStreakLabel=16C784&sideLabels=c7d0e0&dates=5d6a82&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Reda-Tali&show_icons=true&hide_border=true&title_color=16C784&icon_color=d4af37&text_color=c7d0e0&bg_color=080d16&rank_icon=percentile" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-Tali&layout=donut&hide_border=true&title_color=16C784&text_color=c7d0e0&bg_color=080d16" alt="Allocation" />
+<img height="170" src="https://streak-stats.demolab.com?user=Reda-Tali&hide_border=true&background=080d16&ring=16C784&fire=d4af37&currStreakLabel=16C784&sideLabels=c7d0e0&dates=5d6a82&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
 
 </div>
 
