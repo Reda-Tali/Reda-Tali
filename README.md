@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=900&color=16C784&center=true&vCenter=true&width=640&height=60&lines=%24+whoami;Reda+%E2%80%94+fintech+%2B+code+%2B+AI;trading+how+money+moves." alt="Reda" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02130b,50:0b3d24,100:16c784&height=150&section=header&text=REDA&fontColor=eafff5&fontSize=58&fontAlignY=40&desc=FINTECH%20%C2%B7%20MARKETS%20%C2%B7%20CODE&descAlignY=62&descSize=14" width="100%" alt="Reda" />
 
-![Focus](https://img.shields.io/badge/FOCUS-FINTECH-16C784?style=flat-square&labelColor=0d1117)
-![Markets](https://img.shields.io/badge/INTO-CRYPTO_&_MARKETS-e3b341?style=flat-square&labelColor=0d1117)
-![Status](https://img.shields.io/badge/STATUS-BUILDING-16C784?style=flat-square&labelColor=0d1117)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=16C784&center=true&vCenter=true&width=640&height=50&lines=trading+how+money+moves;fintech+%2B+code+%2B+AI;long+crypto%2C+long+curiosity" alt="Reda" />
+
+![Focus](https://img.shields.io/badge/FOCUS-FINTECH-16C784?style=flat-square&labelColor=161b22)
+![Markets](https://img.shields.io/badge/INTO-CRYPTO_&_MARKETS-e3b341?style=flat-square&labelColor=161b22)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-16C784?style=flat-square&labelColor=161b22)
 
 </div>
 
