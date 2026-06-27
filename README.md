@@ -20,53 +20,14 @@ meet
 <br/>
 
 <div align="center">
-  <img width="382" height="127" alt="Image" src="https://github.com/user-attachments/assets/c592ba7d-edc3-4ad5-a33e-67f8f6fa253e" />
+  <img width="191" height="64" alt="Image" src="https://github.com/user-attachments/assets/c592ba7d-edc3-4ad5-a33e-67f8f6fa253e" />
 </div>
 
 <br/>
 
 ---
 
-### 🧠 About Me
-
-- 🎓 Computer Engineering student @ **ENSI Tangier** (Bac+3)
-- 🏗️ Founder & Lead @ **Aigensys** — AI & IT company, Tangier
-- 📈 Started as a retail trader → lost money → studied microstructure → now I build the systems
-- 🤖 Currently building an autonomous AI agent that writes, compiles & deploys smart contracts on Ethereum
-- 🎯 Targeting a **Master's in Fintech / Quant Finance** in Europe (2027/2028)
-
----
-
-### 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
----
-
-### 🚀 Projects
-
-| Project | What it does |
-|--------|-------------|
-| 🤖 **AI Smart Contract Agent** | Autonomous agent that writes, compiles & deploys upgradeable contracts via Claude API + Hardhat |
-| 📊 **LSTM Trading System** | Deep learning model for price prediction on financial time series |
-| ⚡ **HFT Bot** | High-frequency trading system built around market microstructure logic |
-| 👁️ **SignLens** | Sign language recognition using computer vision |
-| 💹 **NFO Trading Bot** | Automated trading bot for derivatives markets |
-
----
-
-### 📬 Connect
+### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile views"/>
-</div>
