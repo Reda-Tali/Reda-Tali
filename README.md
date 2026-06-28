@@ -23,8 +23,13 @@ No emotions. No hesitation. Just pure execution, performing x10 better than a pr
 
 | <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python | <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C / C++ | <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML / CSS | <img src="https://skillicons.dev/icons?i=solidity" width="40"/><br/>Blockchain & Web3 | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br/>ML / AI | <img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>APIs |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| | | | | | |
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif?raw=true" height="80"/>
 </div>
 
 <br/><br/>
