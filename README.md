@@ -34,12 +34,6 @@ No emotions. No hesitation. Just pure execution, performing x10 better than a pr
 
 <br/><br/>
 
-<div align="center">
-<img src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif?raw=true" height="80"/>
-</div>
-
-<br/><br/>
-
 ---
 
 ### 📬 Contact Me
