@@ -29,7 +29,7 @@ No emotions. No hesitation. Just pure execution, performing x10 better than a pr
 
 <br/><br/>
 
-<img src="YOUR_ORDERBOOK_IMAGE_URL" width="100%"/>
+
 
 <br/>
 
