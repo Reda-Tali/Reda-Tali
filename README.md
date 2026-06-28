@@ -4,7 +4,19 @@
 
 <br/>
 
-### I am obsessed with where&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4bzhpbTd6dGV6eDYzejYzcmkwc3lycW9odjQ4eGljdmtid2FmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/916t1VsCg2qoo/giphy.gif" height="35"/>&nbsp;<img src="https://cdn.pixabay.com/animation/2023/08/29/21/34/21-34-13-533_512.gif" height="35"/>&nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZxa25lemZyb2Z6ZnM0ZmY1Y2dnaDZyZTJ3dGVwaWRzNG4zcDQwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JtBZm3Getg3dqxK0zP/giphy.gif" height="35"/>&nbsp;and technology&nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhhN213d21vcmFjMWRtM3BhdzhndHpibHp5MTdvNXRtem90ejFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" height="35"/><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzbm5oZGI4ZWd5d2Z2NGtibjZpdnFhcW8ycTBnejJpM3ZwaG50cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" height="35"/>&nbsp;meet
+### I am obsessed with where&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4bzhpbTd6dGV6eDYzejYzcmkwc3lycW9odjQ4eGljdmtid2FmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/916t1VsCg2qoo/giphy.gif" height="35"/>&nbsp;<img src="https://cdn.pixabay.com/animation/2023/08/29/21/34/21-34-13-533_512.gif" height="35"/>&nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZxa25lemZyb2Z6ZnM0ZmY1Y2dnaDZyZTJ3dGVwaWRzNG4zcDQwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JtBZm3Getg3dqxK0zP/giphy.gif" height="35"/>&nbsp;and&nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhhN213d21vcmFjMWRtM3BhdzhndHpibHp5MTdvNXRtem90ejFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" height="35"/><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzbm5oZGI4ZWd5d2Z2NGtibjZpdnFhcW8ycTBnejJpM3ZwaG50cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" height="35"/>&nbsp;meet
+
+<br/>
+
+<!--ORDER BOOK TABLE-->
+| BIDS · BUILDING WITH | LVL | ASKS · ACCUMULATING | LVL |
+|---|---|---|---|
+| ![](https://geps.dev/progress/92?successColor=0a5c45) PYTHON | `0.92` | ![](https://geps.dev/progress/66?successColor=5c1a1a) QUANT FINANCE | `0.66` |
+| ![](https://geps.dev/progress/74?successColor=0a5c45) C / C++ | `0.74` | ![](https://geps.dev/progress/48?successColor=5c1a1a) SMART CONTRACTS | `0.48` |
+| ![](https://geps.dev/progress/78?successColor=0a5c45) JAVASCRIPT | `0.78` | ![](https://geps.dev/progress/70?successColor=5c1a1a) AI / ML | `0.70` |
+| ![](https://geps.dev/progress/86?successColor=0a5c45) HTML / CSS | `0.86` | ![](https://geps.dev/progress/55?successColor=5c1a1a) ON-CHAIN DATA | `0.55` |
+| ![](https://geps.dev/progress/72?successColor=0a5c45) REST APIs | `0.72` | ![](https://geps.dev/progress/40?successColor=5c1a1a) RUST | `0.40` |
+| ![](https://geps.dev/progress/80?successColor=0a5c45) GIT / GITHUB | `0.80` | ![](https://geps.dev/progress/60?successColor=5c1a1a) SYSTEM DESIGN | `0.60` |
 
 <br/>
 
