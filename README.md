@@ -20,7 +20,16 @@ No emotions. No hesitation. Just pure execution, performing x10 better than a pr
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,fastapi,react,js,tensorflow,pytorch" />
+## 🔥 Hot Skills
+
+<br/>
+
+| 💻 Languages | ⛓️ Blockchain & Web3 | 🤖 ML / AI | 📈 Quant Trading | 🔌 APIs |
+|:---:|:---:|:---:|:---:|:---:|
+| Python | Solidity | TensorFlow | HFT Systems | REST APIs |
+| C / C++ | Hardhat | PyTorch | Algorithmic Trading | WebSockets |
+| HTML / CSS | OpenZeppelin | Neural Networks | Market Microstructure | FastAPI |
+| JavaScript | Ethers.js | LLMs & Agents | Backtesting | GraphQL |
 </div>
 
 <br/><br/>
