@@ -12,6 +12,8 @@ I am obsessed with where&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPT
 <img src="https://github.com/sindresorhus/sindresorhus/blob/main/under-construction.gif?raw=true" height="80"/>
 </div>
 
+<br/><br/>
+
 An AI agent trained to day trade — faster, sharper, and more disciplined than any human.
 No emotions. No hesitation. Just pure execution, performing x10 better than a pro trader.
 
