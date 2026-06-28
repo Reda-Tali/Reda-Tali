@@ -21,30 +21,32 @@ No emotions. No hesitation. Just pure execution, performing x10 better than a pr
 
 <div align="center">
 
-<br/>
-
-<div align="center">
-
 | <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python | <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C / C++ | <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML / CSS | <img src="https://skillicons.dev/icons?i=solidity" width="40"/><br/>Blockchain & Web3 | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br/>ML / AI | <img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>APIs |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | | | | | | |
 
 </div>
-<div align="center">
-<img src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif?raw=true" height="80"/>
-</div>
-<br/>
 
 <br/><br/>
 
+<div align="center">
+<img src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif?raw=true" height="80"/>
+</div>
 
-
-<br/>
+<br/><br/>
 
 ---
 
-[### 📬 Contact Me
+### 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-](https://www.linkedin.com/in/reda-tali-127278333/)
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/reda-tali-127278333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Reda%20Tali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_WEBSITE_URL">
+    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+</p>
