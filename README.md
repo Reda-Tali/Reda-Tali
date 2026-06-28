@@ -43,7 +43,8 @@ No emotions. No hesitation. Just pure execution, performing x10 better than a pr
 
 ---
 
-### 📬 Contact Me
+[### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+](https://www.linkedin.com/in/reda-tali-127278333/)
