@@ -1,41 +1,19 @@
-<!-- FULL WIDTH HEADER (fixes left/right spacing) -->
-<div style="width: 100vw; margin-left: calc(50% - 50vw);">
+<div style="margin:0; padding:0;">
   <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/3b240bde-8855-4d9c-a5a7-f4249593b9e4" />
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
-<div align="center">
-  <h1>Welcome to my github</h1>
-</div>
+I am obsessed with where&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4bzhpbTd6dGV6eDYzejYzcmkwc3lycW9odjQ4eGljdmtid2FmOCZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/916t1VsCg2qoo/giphy.gif" height="70"/>&nbsp;<img src="https://cdn.pixabay.com/animation/2023/08/29/21/34/21-34-13-533_512.gif" height="70"/>&nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZxa25lemZyb2Z6ZnM0ZmY1Y2dnaDZyZTJ3dGVwaWRzNG4zcDQwaSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/JtBZm3Getg3dqxK0zP/giphy.gif" height="70"/>&nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZxa25lemZyb2Z6ZnM0ZmY1Y2dnaDZyZTJ3dGVwaWRzNG4zcDQwaSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/JtBZm3Getg3dqxK0zP/giphy.gif" height="70"/>&nbsp;and&nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhhN213d21vcmFjMWRtM3BhdzhndHpibHp5MTdvNXRtem90ejFjciZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" height="90"/><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzbm5oZGI4ZWd5d2Z2NGtibjZpdnFhcW8ycTBnejJpM3ZwaG50cyZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" height="90"/>&nbsp;meet
 
-<br/><br/>
+<br/><br/><br/>
 
-<div align="center">
-  I am obsessed with where&nbsp;
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4bzhpbTd6dGV6eDYzejYzcmkwc3lycW9odjQ4eGljdmtid2FmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/916t1VsCg2qoo/giphy.gif" height="70"/>
-  &nbsp;<img src="https://cdn.pixabay.com/animation/2023/08/29/21/34/21-34-13-533_512.gif" height="70"/>
-  &nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZxa25lemZyb2Z6ZnM0ZmY1Y2dnaDZyZTJ3dGVwaWRzNG4zcDQwaSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/JtBZm3Getg3dqxK0zP/giphy.gif" height="70"/>
-  &nbsp;and&nbsp;
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhhN213d21vcmFjMWRtM3BhdzhndHpibHp5MTdvNXRtem90ejFjciZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" height="90"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzbm5oZGI4ZWd5d2Z2NGtibjZpdnFhcW8ycTBnejJpM3ZwaG50cyZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" height="90"/>
-  &nbsp;meet
-</div>
+<img src="https://github.com/sindresorhus/sindresorhus/blob/main/under-construction.gif?raw=true" height="40"/>
 
-<br/><br/>
+An AI agent trained to day trade — faster, sharper, and more disciplined than any human.
+No emotions. No hesitation. Just pure execution, performing x10 better than a pro trader.
 
-<div align="center">
-  <img src="https://github.com/sindresorhus/sindresorhus/blob/main/under-construction.gif?raw=true" height="40"/>
-</div>
-
-<br/>
-
-<div align="center">
-  An AI agent trained to day trade — faster, sharper, and more disciplined than any human.<br/>
-  No emotions. No hesitation. Just pure execution, performing x10 better than a pro trader.
-</div>
-
-<br/><br/>
+<br/><br/><br/>
 
 ## 🔥 Hot Skills
 
@@ -47,16 +25,11 @@
 
 <br/><br/>
 
-<div align="center">
 <img src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif?raw=true" height="80"/>
-</div>
 
 <br/><br/>
 
-<!-- FULL WIDTH IMAGE FIX -->
-<div style="width: 100vw; margin-left: calc(50% - 50vw);">
-  <img src="YOUR_ORDERBOOK_IMAGE_URL" width="100%"/>
-</div>
+<img src="YOUR_ORDERBOOK_IMAGE_URL" width="100%"/>
 
 <br/>
 
@@ -64,11 +37,5 @@
 
 ### 📬 Contact Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
